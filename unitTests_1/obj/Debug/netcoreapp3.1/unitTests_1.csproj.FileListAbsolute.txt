@@ -1,0 +1,39 @@
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.exe
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.deps.json
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.json
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.dll
+C:\Users\Admin\source\repos\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.pdb
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.dll
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.pdb
+C:\Users\Admin\source\repos\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.exe
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.deps.json
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.json
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.dll
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.pdb
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.dll
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.pdb
+C:\Users\Admin\source\repos\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.genruntimeconfig.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.exe
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.deps.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.runtimeconfig.dev.json
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.dll
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\bin\Debug\netcoreapp3.1\unitTests_1.pdb
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csprojAssemblyReference.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfoInputs.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.AssemblyInfo.cs
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.csproj.CoreCompileInputs.cache
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.dll
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.pdb
+D:\!КПИ\!2-СЕМЕСТР\10. СМиТРПЗ_Java\NEW LabWORKS\unitTests_labs\lab1\unitTests_1\obj\Debug\netcoreapp3.1\unitTests_1.genruntimeconfig.cache
